@@ -1,4 +1,4 @@
-# 🧠 BetMaestro – Data Project 3
+# 🧠 BetMaestro
 
 [![Watch demo on YouTube](https://img.shields.io/badge/%F0%9F%93%BD%20Demo%20on%20YouTube-red?style=for-the-badge)](https://youtu.be/gpr9XA1yVy4)
 [![Watch promo video](https://img.shields.io/badge/%F0%9F%8E%A5%20Promo%20Video-purple?style=for-the-badge)](https://www.youtube.com/watch?v=MBa65teaebc&ab_channel=CokeStuyck)
