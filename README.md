@@ -18,6 +18,7 @@
   - Cloud Run
   - Cloud Storage
 - **Streamlit**: Interactive frontend for data visualization
+- **Next.js**: Vibe-coded frontend for presentation purposes [Link to repo](https://github.com/cokecancook/betmaestro-frontend)
 
 ---
 
