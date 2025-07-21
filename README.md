@@ -1,5 +1,7 @@
 # 🧠 BetMaestro
 
+<img width="1137" height="639" alt="betmaestro" src="https://github.com/user-attachments/assets/aa05de71-18f4-4cb3-82e1-040d1badf1ca" />
+
 [![Watch demo on YouTube](https://img.shields.io/badge/%F0%9F%93%BD%20Demo%20on%20YouTube-red?style=for-the-badge)](https://youtu.be/gpr9XA1yVy4)
 [![Watch promo video](https://img.shields.io/badge/%F0%9F%8E%A5%20Promo%20Video-purple?style=for-the-badge)](https://www.youtube.com/watch?v=MBa65teaebc&ab_channel=CokeStuyck)
 
